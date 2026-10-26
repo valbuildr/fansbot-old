@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository will no longer be updated since Fans Bot is getting a rewrite. See the [new repository](https://github.com/valbuildr/fansbot).
+
 # BBC Fans Bot (fansbot)
 
 A bot meant to aid in upkeeping the [BBC Fans Discord server](https://discord.gg/BNdm8gmRPN).
